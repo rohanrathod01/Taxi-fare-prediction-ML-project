@@ -1,0 +1,8 @@
+distance
+duration
+hour
+day_of_week
+passenger_count
+traffic_level
+weather
+demand_level
