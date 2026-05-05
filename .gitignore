@@ -20,3 +20,4 @@ htmlcov/
 *.egg-info/
 dist/
 build/
+yellow_tripdata_2025-01.parquet
