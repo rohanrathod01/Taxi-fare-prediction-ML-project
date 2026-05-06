@@ -1,4 +1,4 @@
-# 🚕 Taxi Fare Prediction System - Complete Guide..
+# 🚕 Taxi Fare Prediction System - Complete Guide.
 
 A **production-ready** ML-powered taxi fare prediction system with **automatic feature extraction**, **live dashboard**, and **real-time data integration**.
 
